@@ -1,4 +1,3 @@
-# front-end-zero
 # Front-End do Zero 💻
 
 Este repositório contém meus estudos do bootcamp **Ri Happy - Front-end do Zero** realizado na plataforma DIO.
